@@ -13,6 +13,10 @@ To implement ARMA model in python.
 
 
 # PROGRAM:
+```
+Developed by: Challa Sandeep
+Reg No: 212221240011
+```
 ~~~
 from pandas import read_csv
 from pandas import datetime
